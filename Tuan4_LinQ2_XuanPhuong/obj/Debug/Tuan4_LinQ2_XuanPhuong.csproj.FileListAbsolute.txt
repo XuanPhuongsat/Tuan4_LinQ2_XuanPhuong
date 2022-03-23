@@ -1,0 +1,249 @@
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Tuan4_LinQ2_XuanPhuong.dll.config
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Tuan4_LinQ2_XuanPhuong.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Tuan4_LinQ2_XuanPhuong.pdb
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csc.exe
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csc.exe.config
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csc.rsp
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csi.exe
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csi.exe.config
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csi.rsp
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.AppContext.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Collections.Immutable.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Console.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Globalization.Calendars.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.IO.Compression.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.IO.FileSystem.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Net.Http.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Net.Sockets.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Reflection.Metadata.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.ValueTuple.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Xml.XPath.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\vbc.exe
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\vbc.exe.config
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\vbc.rsp
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\VBCSCompiler.exe
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\VBCSCompiler.exe.config
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Antlr3.Runtime.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Microsoft.Web.Infrastructure.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Newtonsoft.Json.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\PagedList.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\PagedList.Mvc.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Helpers.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Mvc.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Optimization.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Razor.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.Deployment.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.Razor.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\WebGrease.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\PagedList.xml
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\PagedList.Mvc.xml
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Helpers.xml
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Mvc.xml
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Optimization.xml
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Razor.xml
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.xml
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.Deployment.xml
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.Razor.xml
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Newtonsoft.Json.xml
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Antlr3.Runtime.pdb
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\obj\Debug\Tuan4_LinQ2_XuanPhuong.csproj.AssemblyReference.cache
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\obj\Debug\Tuan4_LinQ2_XuanPhuong.csproj.CoreCompileInputs.cache
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\obj\Debug\Tuan4_LinQ2_XuanPhuong.csproj.CopyComplete
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\obj\Debug\Tuan4_LinQ2_XuanPhuong.dll
+E:\Học\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\obj\Debug\Tuan4_LinQ2_XuanPhuong.pdb
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Tuan4_LinQ2_XuanPhuong.dll.config
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Tuan4_LinQ2_XuanPhuong.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Tuan4_LinQ2_XuanPhuong.pdb
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csc.exe
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csc.exe.config
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csc.rsp
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csi.exe
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csi.exe.config
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csi.rsp
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.AppContext.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Collections.Immutable.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Console.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Globalization.Calendars.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.IO.Compression.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.IO.FileSystem.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Net.Http.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Net.Sockets.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Reflection.Metadata.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.ValueTuple.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Xml.XPath.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\vbc.exe
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\vbc.exe.config
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\vbc.rsp
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\VBCSCompiler.exe
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\VBCSCompiler.exe.config
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Antlr3.Runtime.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Microsoft.Web.Infrastructure.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Newtonsoft.Json.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\PagedList.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\PagedList.Mvc.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Helpers.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Mvc.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Optimization.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Razor.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.Deployment.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.Razor.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\WebGrease.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\PagedList.xml
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\PagedList.Mvc.xml
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Helpers.xml
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Mvc.xml
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Optimization.xml
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Razor.xml
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.xml
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.Deployment.xml
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.Razor.xml
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Newtonsoft.Json.xml
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Antlr3.Runtime.pdb
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\obj\Debug\Tuan4_LinQ2_XuanPhuong.csproj.AssemblyReference.cache
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\obj\Debug\Tuan4_LinQ2_XuanPhuong.csproj.CoreCompileInputs.cache
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\obj\Debug\Tuan4_LinQ2_XuanPhuong.csproj.CopyComplete
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\obj\Debug\Tuan4_LinQ2_XuanPhuong.dll
+F:\Hoc\Lap Trinh Web\Lập trình Web\C#\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\obj\Debug\Tuan4_LinQ2_XuanPhuong.pdb
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Tuan4_LinQ2_XuanPhuong.dll.config
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Tuan4_LinQ2_XuanPhuong.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Tuan4_LinQ2_XuanPhuong.pdb
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csc.exe
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csc.exe.config
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csc.rsp
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csi.exe
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csi.exe.config
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\csi.rsp
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.Managed.Core.targets
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.AppContext.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Collections.Immutable.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Console.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Globalization.Calendars.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.IO.Compression.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.IO.FileSystem.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Net.Http.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Net.Sockets.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Reflection.Metadata.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.ValueTuple.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Xml.XmlDocument.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Xml.XPath.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\vbc.exe
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\vbc.exe.config
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\vbc.rsp
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\VBCSCompiler.exe
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\roslyn\VBCSCompiler.exe.config
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Antlr3.Runtime.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Microsoft.Web.Infrastructure.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Newtonsoft.Json.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\PagedList.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\PagedList.Mvc.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Helpers.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Mvc.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Optimization.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Razor.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.Deployment.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.Razor.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\WebGrease.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\PagedList.xml
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\PagedList.Mvc.xml
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Helpers.xml
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Mvc.xml
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Optimization.xml
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.Razor.xml
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.xml
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.Deployment.xml
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\System.Web.WebPages.Razor.xml
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Newtonsoft.Json.xml
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Antlr3.Runtime.pdb
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\obj\Debug\Tuan4_LinQ2_XuanPhuong.csproj.AssemblyReference.cache
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\obj\Debug\Tuan4_LinQ2_XuanPhuong.csproj.CoreCompileInputs.cache
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\obj\Debug\Tuan4_LinQ2_XuanPhuong.csproj.CopyComplete
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\obj\Debug\Tuan4_LinQ2_XuanPhuong.dll
+F:\23-3-2022\Tuan4_LinQ2_XuanPhuong\Tuan4_LinQ2_XuanPhuong\obj\Debug\Tuan4_LinQ2_XuanPhuong.pdb

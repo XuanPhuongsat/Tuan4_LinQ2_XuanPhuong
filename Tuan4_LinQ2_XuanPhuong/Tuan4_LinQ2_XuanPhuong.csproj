@@ -130,6 +130,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\GioHangController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\NguoiDungController.cs" />
     <Compile Include="Controllers\SachController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -147,12 +148,18 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\images\86.jpg" />
     <Content Include="Content\images\book1.jpg" />
     <Content Include="Content\images\book2.jpg" />
     <Content Include="Content\images\book3.jpg" />
     <Content Include="Content\images\elexis.jpg" />
+    <Content Include="Content\images\elexis5.jpg" />
+    <Content Include="Content\images\hoangtutt.jpg" />
+    <Content Include="Content\images\otome2.jpg" />
     <Content Include="Content\images\otome3.jpg" />
     <Content Include="Content\images\overlord3.jpg" />
+    <Content Include="Content\images\slime.jpg" />
+    <Content Include="Content\images\tanya3.jpg" />
     <Content Include="Content\PagedList.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -200,6 +207,10 @@
     <Content Include="Views\Sach\Delete.cshtml" />
     <Content Include="Views\GioHang\GioHangPartial.cshtml" />
     <Content Include="Views\GioHang\GioHang.cshtml" />
+    <Content Include="Views\NguoiDung\DangKy.cshtml" />
+    <Content Include="Views\NguoiDung\DangNhap.cshtml" />
+    <Content Include="Views\GioHang\XacNhanDonHang.cshtml" />
+    <Content Include="Views\GioHang\DatHang.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

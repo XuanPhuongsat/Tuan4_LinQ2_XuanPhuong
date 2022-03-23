@@ -5,10 +5,10 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>GioHang</h2>
+<h2 style="color :red">Giỏ hàng của bạn :  </h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+   @* @Html.ActionLink("Create New", "Create")*@
 </p>
 <table class="table">
     <tr>
@@ -33,44 +33,58 @@
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
-<tr>
-    <td>
-        @Html.DisplayFor(modelItem => item.masach)
-    </td>
-    <td><img src="@item.hinh" width="180" /></td>
-    @using (Html.BeginForm("CapnhatGiohang", "GioHang", new { item.masach }))
+    @foreach (var item in Model)
     {
-        <td>@String.Format("{0:0,0}", item.giaban) VND</td>
-        <td><input type="number" min="1" name="txtSoLg" value="@item.iSoluong" /> </td>
-        <td>@Html.DisplayFor(modelItem => item.dThanhTien)</td>
-        <td><a href="@Url.Action("Detail", "Sach", new {id= item.masach })">Chi Tiet</a> | @Html.ActionLink("Xoa", "XoaGioHang", new { @id = item.masach }) </td>
-        <td><input type="submit" value="Cap Nhat" class="btn btn-success" /></td>
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.masach)
+            </td>
+            <td><img src="@item.hinh" width="180" /></td>
+            @using (Html.BeginForm("CapnhatGiohang", "GioHang", new { item.masach }))
+            {
+                <td>@String.Format("{0:0,0}", item.giaban) VND</td>
+                <td><input type="number" min="1" name="txtSoLg" value="@item.iSoluong" /> </td>
+                <td>@Html.DisplayFor(modelItem => item.dThanhTien)</td>
+                <td><a href="@Url.Action("Detail", "Sach", new {id= item.masach })">Chi Tiet</a> | @Html.ActionLink("Xoa", "XoaGioHang", new { @id = item.masach }) </td>
+                <td><input type="submit" value="Cap Nhat" class="btn btn-success" /></td>
+            }
+        </tr>
+        @*New thing is Comingggggggg*@
+        @*<td></td>*@
+       @* <td>
+            @Html.DisplayFor(modelItem => item.tensach)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.hinh)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.giaban)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.iSoluong)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dThanhTien)
+        </td>*@
+        <td>
+
+
+
+@*------------------------------------------------------------------------------------------------------
+    *@
+
+
+
+
+            @*@Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+        <tr style="font-weight:bold; color:yellow; text-align:right">
+            <td colspan="5">@Html.ActionLink("Đặt hàng", "Dathang", "GioHang")</td>
+            
+        </tr>
+        </td>
+        @*</tr>*@
     }
-</tr>
-    @*New thing is Comingggggggg*@
-    @*<td></td>*@
-    <td>
-        @Html.DisplayFor(modelItem => item.tensach)
-    </td>
-    <td>
-        @Html.DisplayFor(modelItem => item.hinh)
-    </td>
-    <td>
-        @Html.DisplayFor(modelItem => item.giaban)
-    </td>
-    <td>
-        @Html.DisplayFor(modelItem => item.iSoluong)
-    </td>
-    <td>
-        @Html.DisplayFor(modelItem => item.dThanhTien)
-    </td>
-    <td>
-        @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-        @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-        @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
-    </td>
-</tr>
-}
 
 </table>
